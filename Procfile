@@ -1,1 +1,1 @@
-web: python3 main.py
+profile: python3 main.py
